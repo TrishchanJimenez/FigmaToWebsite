@@ -118,8 +118,7 @@ a {
 
 .footer {
     width: 100%;
-    /* height: 128px; */
-    height: auto;
+    height: 128px;
 }
 
 .footer-content {
